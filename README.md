@@ -1,3 +1,5 @@
 # New Project
 
-Local System project
+Local System project.
+
+Delta course.
